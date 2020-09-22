@@ -10,6 +10,9 @@
 
     <LinearLayout
 
+        android:margin top="20dp"
+        android:margin left="20dp"
+        android:margin down="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
